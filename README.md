@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development and contributing in open source
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on github and linkedin
-- 📫 Reache me on @abhiraj2512 and linkedin id https://www.linkedin.com/in/abhinandan-kumar-307166224/
+- 📫 Reach me on @abhiraj2512 and linkedin id https://www.linkedin.com/in/abhinandan-kumar-307166224/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
