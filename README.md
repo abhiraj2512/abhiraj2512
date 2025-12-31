@@ -2,10 +2,10 @@ Hi, I'm Abhinandan Kumar
 
  Frontend Developer | React & TypeScript Specialist
 
-6 months production experience** building logistics web applications  
+6 months production experience building logistics web applications  
  Currently at Janio Asia - Developed courier management systems  
  Learning Next.js, TailwindCSS, and modern frontend architecture  
- Open to frontend development opportunities**  
+ Open to frontend development opportunities 
 
 Tech Stack
 
@@ -29,17 +29,17 @@ Frontend:
 
 ---
 
-### 💼 Professional Experience
+ 💼 Professional Experience
 
-**Janio Asia** | Frontend Developer Intern | June 2025 - Dec 2025
-- Built **courier order management system** handling 500+ daily transactions
-- Developed **reusable React component library** with TypeScript and Ant Design
-- Integrated **RESTful APIs** for real-time logistics data updates
-- Collaborated using **GitLab workflow** with MR reviews and code quality standards
+Janio Asia | Frontend Developer Intern | June 2025 - Dec 2025
+- Built courier order management system** handling 500+ daily transactions
+- Developed reusable React component library** with TypeScript and Ant Design
+- Integrated RESTful APIs for real-time logistics data updates
+- Collaborated using GitLab workflo with MR reviews and code quality standards
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiraj2512&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -47,16 +47,16 @@ Frontend:
 
 ---
 
-### 🚀 Current Focus
+ Current Focus
 
-- 🔨 Building pixel-perfect UI implementations from Figma designs
-- 📚 Learning Next.js and TailwindCSS for modern web development
-- 🎨 Exploring animation libraries (Framer Motion, GSAP)
-- 💡 Contributing to open source projects
+-  Building pixel-perfect UI implementations from Figma designs
+-  Learning Next.js and TailwindCSS for modern web development
+-  Exploring animation libraries (Framer Motion, GSAP)
+-  Contributing to open source projects
 
 ---
 
-### 📫 Let's Connect
+ 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-kumar-307166224/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhikumarsingh912@gmail.com)
@@ -64,7 +64,7 @@ Frontend:
 
 ---
 
-⚡ **Fun fact:** I'm passionate about clean code architecture and pixel-perfect UI implementations!
+⚡Fun fact: I'm passionate about clean code architecture and pixel-perfect UI implementations!
 
-📈 **Profile Views:**  
+📈 Profile Views:
 ![](https://komarev.com/ghpvc/?username=abhiraj2512&color=blue&style=flat-square)
