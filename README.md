@@ -39,6 +39,9 @@ Janio Asia | Frontend Developer Intern | June 2025 - Dec 2025
 
 ---
 
+Check-Out my Portfolio
+-https://abhinandankumar-portfolio.vercel.app/
+
 📊 GitHub Stats
 
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiraj2512&show_icons=true&theme=tokyonight&hide_border=true)
